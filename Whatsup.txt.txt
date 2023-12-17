@@ -17,3 +17,5 @@ Hiding last seen code
 7. Adding the video call feature
 
 8. Adding status so that user can play train games
+
+9. Adding the same status again to the master
